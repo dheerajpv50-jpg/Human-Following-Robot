@@ -1,2 +1,2 @@
 # Circuit Diagram
-Circuit diagram will be uploaded here.
+![Circuit Diagram](images/robot.jpg)
